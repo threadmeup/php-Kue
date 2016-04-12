@@ -1,4 +1,6 @@
 <?php
+namespace ThreadMeUp\Kue
+
 
 if (!function_exists('json_decode')) {
   throw new Exception('KueApi needs the JSON PHP extension.');
