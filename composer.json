@@ -1,5 +1,5 @@
 {
-	"name": "threadmeup/php-kue",
+	"name": "cgrafton/php-kue",
 	"type": "library",
 	"description": "A producer client for Kue, a redis queue implementation",
 	"keywords": ["kue","queue", "redis queue"],
