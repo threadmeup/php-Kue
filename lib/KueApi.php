@@ -1,4 +1,6 @@
 <?php
+namespace ThreadMeUp\Kue
+
 
 namespace cgrafton\Kue;
 
